@@ -7,7 +7,7 @@ package ec.edu.ups.vista;
 
 /**
  *
- * @author Dutan2000
+ * @author surfa
  */
 public class Inicio extends javax.swing.JInternalFrame {
 

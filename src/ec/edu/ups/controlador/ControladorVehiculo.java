@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Dutan2000
+ * @author surfa
  */
 public class ControladorVehiculo {
 

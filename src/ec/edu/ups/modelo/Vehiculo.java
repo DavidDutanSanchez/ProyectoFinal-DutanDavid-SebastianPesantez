@@ -9,7 +9,7 @@ import java.util.Objects;
 
 /**
  *
- * @author Dutan2000
+ * @author surfa
  */
 public class Vehiculo {
     private String placa;

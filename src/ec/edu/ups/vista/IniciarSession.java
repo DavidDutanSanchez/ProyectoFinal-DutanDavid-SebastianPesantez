@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Dutan2000
+ * @author surfa
  */
 public class IniciarSession extends javax.swing.JInternalFrame {
 

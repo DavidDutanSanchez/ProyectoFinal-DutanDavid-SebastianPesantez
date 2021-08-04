@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Dutan2000
+ * @author surfa
  */
 public class RegistrarCliente extends javax.swing.JInternalFrame {
 

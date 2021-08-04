@@ -7,7 +7,7 @@ package ec.edu.ups.modelo;
 
 /**
  *
- * @author Dutan2000
+ * @author surfa
  */
 public class Parqueadero {
     private boolean vacio;
